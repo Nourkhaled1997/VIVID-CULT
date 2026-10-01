@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 86.27 54.22">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        font-family: Gunterz-Bold, 'Gunterz Bold';
+        font-size: 27.84px;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <g id="Layer_4" data-name="Layer 4">
+    <g>
+      <text class="cls-2" transform="translate(0 23.3)"><tspan x="0" y="0">VVD</tspan><tspan x="0" y="23.96">CULT</tspan></text>
+      <path class="cls-1" d="M83.87,26.7h-.38v-.32h1.12v.32h-.38v.87h-.37v-.87ZM84.78,26.38h.5l.25.73.25-.73h.5v1.19h-.37v-.63l-.21.63h-.35l-.21-.63v.63h-.37v-1.19Z"/>
+    </g>
+  </g>
+</svg>
