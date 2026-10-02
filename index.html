@@ -101,6 +101,7 @@ footer{margin-top:clamp(4rem,9vw,8rem)}
 .logo img{width:100%;height:auto;object-fit:contain;object-position:left center}
 .navlinks{display:flex;align-items:center}
 .hero-copy{position:relative;z-index:1;width:100%}
+.hero-copy.wrap{width:min(100% - 8vw,1440px)}
 .hero-kicker{display:flex;align-items:center;gap:.85rem;color:var(--paper);margin:0 0 1.35rem}
 .hero-kicker .brand-symbol{width:18px;height:18px;object-fit:contain;flex:none}
 .hero h1 span{display:block}
@@ -127,6 +128,7 @@ footer{margin-top:clamp(4rem,9vw,8rem)}
 .js .image-card.visible{opacity:1}
 @media(max-width:760px){
  .wrap{width:calc(100% - 2.5rem)}
+ .hero-copy.wrap{width:calc(100% - 2.5rem)}
  header{height:66px}
  .logo{width:96px}
  .navlinks{gap:.75rem}
